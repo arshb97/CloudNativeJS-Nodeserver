@@ -7,4 +7,4 @@
 ![npm package](https://img.shields.io/badge/Helm-3.2.4-darkblue.svg)
 
 Simple [Express.js](https://expressjs.com) app built using the Express Generator, deployed at scaling using [Docker](https://www.docker.com), [Helm](https://helm.sh) and [Kubernetes](https://kubernetes.io); 
-Enhanced with the capabilities like health checks, automatic restart, metrics. [https://www.cloudnativejs.io](https://www.cloudnativejs.io)
+Enhanced with the capabilities like health checks, automatic restart, metrics (using OpenTracing and Prometheus). [https://www.cloudnativejs.io](https://www.cloudnativejs.io)
